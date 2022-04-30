@@ -1,0 +1,9 @@
+.container-cards{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;   
+}
+nav{
+    background: salmon;
+    font-weight: bold;
+}

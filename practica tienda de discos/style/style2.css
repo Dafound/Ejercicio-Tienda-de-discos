@@ -1,0 +1,28 @@
+.container-body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+table{
+    text-align: left;
+    width: 800px;
+}
+th,td{
+    padding: 20px;
+    
+}
+ .boton{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+nav{
+    background: salmon;
+    font-weight: bold;
+}
+
+.fecha-precio{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
